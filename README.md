@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Malte!<br>I'm interested in tech stuff and motorcycling.<br>Currently I'm working on a cross-platform password manager.
+Hey, I'm Malte, a future computer science student!<br>I'm interested in tech stuff and motorcycling.<br>Currently I'm working on mods for the video game "Forts".
 
 
 ## 🌐 Socials:
