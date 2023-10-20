@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Malte, a computer science student!<br>I'm interested in tech stuff and motorcycling.<br>Currently I'm working on a Typescript-React-Website and a Modular Discord Bot!.
+Hey, I'm Malte, a computer science student!<br>I'm interested in tech stuff and motorcycling.<br>Currently I'm working on a Typescript-NextJS-Webapp and a Modular Discord Bot!.
 
 
 ## 🌐 Socials:
