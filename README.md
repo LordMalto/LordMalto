@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Malte, a computer science student!<br>I'm interested in tech stuff and motorcycling-
+Hey, I'm Malte, a computer science student!<br>I'm interested in tech stuff and motorcycling.
 
 
 ## 🌐 Socials:
