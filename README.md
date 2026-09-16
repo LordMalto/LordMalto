@@ -1,6 +1,5 @@
 # 💫 About Me:
 Hey, I'm Malte, a computer science student!<br>I'm interested in tech stuff and motorcycling.
-Feel free to contact me via [Mail](mailto:contact@lordmalto.com)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LordMalto&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
